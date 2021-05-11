@@ -1,29 +1,16 @@
-# cpp-irrf-taxes
+# cpp-investment-brazil
 
-A tabela de descontos do IRRF, definidos pelo governo, é determinada na faixa e a base de incidência se encontra. 
+Considere um investimento feito no exterior em Euros em um país europeu nomeado PX.
 
-Em 2018, os descontos eram os seguintes e aplicados aos valores brutos de salários:
+Todo investidor brasileiro tem que declarar a Receita Federal o valor desse investimento.
 
-* Até 1.903,98 - isento
-
-* De 1.903,99 até 2.826,65 - alíquota de 7,5%
-
-* De 2.826,66 até 3.751,05 - alíquota de 15%
-
-* De 3.751,06 até 4.664,68 - alíquota de 22,5%
-
-* Acima de 4.664,68 - alíquota de 27,5%
-
-Faça um programa para ler os valores e uma alíquota de acordo com essa tabela.
+O valor a ser declarado não é convertido diretamente de Euros para Reais, pois o Banco Central exige que um valor em Euros do país PX deve ser convertido para Dólares EUA e, posteriormente, de Dólares para Reais, segundo a cotação diária no Brasil. A cotação de cada moeda depende das variações e regulações financeiras de cada país.
 
 ## Exemplos de valores
 
-* Valor Bruto = R$ 1900, Alíquota = 0, Valor Real = R$ 1900
+* 1 Dólar equivale a quantos Euros? 0.8306, R$ 1 equivale a quantos Dólares? 0.1795, Investimento = R$ 6707.24
 
-* Valor Bruto = R$ 2000, Alíquota = 7.5, Valor Real = R$ 1850
+## Algoritmo
 
-* Valor Bruto = R$ 2850, Alíquota = 15, Valor Real = R$ 2463
-
-* Valor Bruto = R$ 3760, Alíquota = 22.5, Valor Real = 2914
-
-* Valor Bruto = R$ 4670, Alíquota = 27.5, Valor Real = 3385.75
+* Calcule o valor de Euros para Dólares
+* Calcule o valor de Dólares para Reais
