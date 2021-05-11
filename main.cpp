@@ -2,17 +2,21 @@
 using namespace std;
 
 int main() {
-  // crie as variáveis valorbruto e aliquota
+  // crie duas variáveis dolarEuro, realDolar
   
-  // crie uma variável valorreal
+  // crie duas variáveis investimentoEuros, investimentoDolares, investimentoReais
+
+  // leia a variável dolarEuro
+
+  // leia a variável realDolar
   
-  // leia o valorbruto
+  // leia a variável investimentoEuros
   
-  // leia a aliquota
-  
-  // calcule o valorreal
-  
-  // mostre o valor de valorreal
+  // calcule investimentoDolares
+
+  // calcule investimentoReais
+
+  // mostre o valor investimentoReais
   
   return 0;
 }
