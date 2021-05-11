@@ -8,7 +8,10 @@ O valor a ser declarado não é convertido diretamente de Euros para Reais, pois
 
 ## Exemplos de valores
 
-* 1 Dólar equivale a quantos Euros? 0.8306, R$ 1 equivale a quantos Dólares? 0.1795, Investimento = R$ 6707.24
+* Valor do investimento em Euros? 1000
+* 1 Dólar equivale a quantos Euros? 0.8306
+* R$ 1 equivale a quantos Dólares? 0.1795
+* Investimento em Reais = R$ 6707.24
 
 ## Algoritmo
 
