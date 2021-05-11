@@ -6,11 +6,11 @@ int main() {
   
   // crie duas variáveis investimentoEuros, investimentoDolares, investimentoReais
 
+  // leia a variável investimentoEuros
+  
   // leia a variável dolarEuro
 
   // leia a variável realDolar
-  
-  // leia a variável investimentoEuros
   
   // calcule investimentoDolares
 
